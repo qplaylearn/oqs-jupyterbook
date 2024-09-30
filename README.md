@@ -9,7 +9,7 @@ The course is aimed at master students with a background in Quantum Mechanincs a
 [Link to the website](https://qplaylearn.github.io/oqs-jupyterbook)
 
 ## Installation
-In order to use the notebooks in the course and reproduce the results, clone the repository on your device and create a Python 3.11.9 environment with the method of choice (virtualenv, conda or poetry). For example, with poetry
+In order to use the notebooks in the course and reproduce the results, clone the repository on your device and create a Python 3.11.10 environment with the method of choice (virtualenv, conda or poetry). For example, with poetry
 
 ```shell
 poetry install
