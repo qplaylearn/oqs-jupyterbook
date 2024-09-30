@@ -5,7 +5,7 @@ description = ""
 authors = ["Matteo Rossi <teo.red90@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.11.9"
+python = "3.11.10"
 qiskit = "1.0.2"
 qiskit-experiments = "1.0.2"
 matplotlib = "3.8.3"
