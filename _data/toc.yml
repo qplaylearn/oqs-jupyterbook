@@ -25,34 +25,34 @@
 - url: /project_1-depolarizing_channel
   title: "Project 1: Depolarizing channel"
   not_numbered: true
-  sections:
-  - url: /project_1-solution
-    title: Solution
+  # sections:
+  # - url: /project_1-solution
+  #   title: Solution
 
 - url: /project_2-pauli_channel
   title: "Project 2: Pauli channel"
   not_numbered: true
-  sections:
-  - url: /project_2-solution
-    title: Solution
+  # sections:
+  # - url: /project_2-solution
+  #   title: Solution
 
 - url: /project_3-reservoir-engineering
   title: "Project 3: Reservoir engineering"
   not_numbered: true
-  sections:
-  - url: /project_3-solution
-    title: Solution
+  # sections:
+  # - url: /project_3-solution
+  #   title: Solution
 
 - url: /project_4-amplitude_damping
   title: "Project 4: Amplitude damping"
   not_numbered: true
-  sections:
-  - url: /project_4-solution
-    title: Solution
+  # sections:
+  # - url: /project_4-solution
+  #   title: Solution
 
 - url: /final_project
   title: "Final Project: Pauli Twirling"
   not_numbered: true
-  sections:
-  - url: /final_project-solutions
-    title: Solution
+  # sections:
+  # - url: /final_project-solutions
+  #   title: Solution
