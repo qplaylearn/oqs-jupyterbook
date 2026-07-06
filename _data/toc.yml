@@ -18,10 +18,10 @@
   title: Index
   not_numbered: true
 
-- url: https://qplaylearn.github.io/oqs-jupyterbook_ITA/
+- url: https://qplaylearn.github.io/oqs-jupyterbook_ITA
   title: Italiano
   
-- url: https://qplaylearn.github.io/oqs-jupyterbook_FIN/
+- url: https://qplaylearn.github.io/oqs-jupyterbook_FIN
   title: Suomi
 
 - title: Getting started
