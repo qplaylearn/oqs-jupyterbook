@@ -18,6 +18,8 @@
   title: Index
   not_numbered: true
 
+- file: languages
+
 - title: Getting started
   url: /getting_started
 - header: Projects
