@@ -19,10 +19,10 @@
   not_numbered: true
 
 - url: https://qplaylearn.github.io/oqs-jupyterbook_ITA/
-  title: 🇮🇹 Italiano
+  title: Italiano
   
 - url: https://qplaylearn.github.io/oqs-jupyterbook_FIN/
-  title: 🇫🇮 Suomi
+  title: Suomi
 
 - title: Getting started
   url: /getting_started
